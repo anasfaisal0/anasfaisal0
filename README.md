@@ -2,6 +2,10 @@
 
 Founder building **Authentic Lahori** – bringing a real Lahori spice mix to the UK.
 
+## Live
+
+- 🌶️ **[Authentic Lahori](https://authenticlahori.vercel.app)** – the storefront. Built end-to-end and deployed on Vercel.
+
 ## What I work on
 
 - 🌶️ **Authentic Lahori** – an e-commerce brand built end-to-end: storefront, founder dashboard, supplier tooling, and automation
