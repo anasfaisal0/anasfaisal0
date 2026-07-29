@@ -10,6 +10,6 @@ Founder building **Authentic Lahori** – bringing a real Lahori spice mix to th
 
 - 🌶️ **Authentic Lahori** – an e-commerce brand built end-to-end: storefront, founder dashboard, supplier tooling, and automation
 - 🛠️ Shipping with **Next.js, TypeScript, Tailwind, Vercel, Supabase, Shopify** and GitHub Actions
-- 🤖 Docs-driven and version-controlled end to end
+- 📐 Docs-driven and version-controlled end to end – every decision written down, every change reviewable
 
 Most of my work lives in private repos while pre-launch. Watch this space. 🚀
